@@ -84,5 +84,4 @@ Brief description of functions contained in project:
 
 ### Authors:
 
-Git: <br>[Paul Sobande](https://github.com/paotec22)<br>
-     [Opeyemi Odedoyin](https://github.com/opsy547)
+Git: <br>[Ruth T Sobande](https://github.com/RuthTSobande)
