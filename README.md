@@ -82,6 +82,6 @@ Brief description of functions contained in project:
 **controlC**: avoid program closing when pressing ctrl + c.
 **main**: initialize program.
 
-### Authors:
+### Author:
 
 Git: <br>[Ruth T Sobande](https://github.com/RuthTSobande)
